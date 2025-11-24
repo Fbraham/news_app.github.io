@@ -1,0 +1,17 @@
+{
+    "name": "",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    
+    "origin-plugin-dev-name": "",
+    "origin-plugin-version": "1.2.1",
+    "plugin-dev-name": "hello-uniapp",
+    "plugin-version": "3.4.9"
+}
